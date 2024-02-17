@@ -8,7 +8,10 @@ h2 {color:green;}
 button {
        background-color: yellow;
        height: 50px;
-       width: 50px;
+       width: 105px;
+       border-radius: 2px;
+       cursor: pointer;
+       border: none;
 }
 
 #tom {
