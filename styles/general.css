@@ -5,6 +5,14 @@ h2 {color:green;}
 .link {font-size: 30px;
        text-align: center;
 }
+     button {
+       background-color: yellow;
+       height: 50px;
+       width: 105px;
+       border-radius: 2px;
+       cursor: pointer;
+       border: none;
+}
 
 
 #tom {
