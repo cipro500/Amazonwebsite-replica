@@ -5,6 +5,17 @@ h2 {color:green;}
 .link {font-size: 30px;
        text-align: center;
 }
+.add-button {
+                        background-color: rgb(255, 217, 0);
+                        color: black;
+                        border: none;
+                        height: 36px;
+                        width: 105px;
+                        border-radius: 15px;
+                        cursor: pointer;
+                        margin-right: 8px;
+                        transition: opacity 0.15s;
+                    }
 
 #tom {
       font-size: 20px;
